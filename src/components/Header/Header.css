@@ -2,7 +2,7 @@
     /* height: 100vh; */
     width: 100%;
     min-height: 500px;
-    background-image: url("../../media/background_image.png");
+    background-image: url("/public/background_image.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

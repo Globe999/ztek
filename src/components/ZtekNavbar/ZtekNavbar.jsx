@@ -1,11 +1,9 @@
 import React from "react";
 import Navbar from 'react-bootstrap/Navbar';
 import Container from 'react-bootstrap/Container';
-import NavDropdown from 'react-bootstrap/NavDropdown';
 import Nav from 'react-bootstrap/Nav';
 import { LinkContainer } from 'react-router-bootstrap';
 import './ZtekNavbar.css'
-import mediumLogo from '../../media/logo_liten.png';
 //Stateless Functional Component
 const ZtekNavbar = () => {
 
@@ -13,7 +11,7 @@ const ZtekNavbar = () => {
     <Navbar fixed="top" expand="lg" bg="grey" collapseOnSelect="true" sticky="top" className="ztekNavbar mx-0">
     <Container className="mx-0">
       <Navbar.Brand href="/">
-        <img className='navbarLogo' src={mediumLogo}/>
+        <img className='navbarLogo' src={`${process.env.PUBLIC_URL}/logo_mellan.png`}/>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">

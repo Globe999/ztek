@@ -1,15 +1,13 @@
 import React, { useState } from 'react';
 import { CardGroup } from "react-bootstrap";
 import sektionsorgan from "./sektionsorgan.json";
-import CommitteesList from './committeesList';
+import CommitteesList from './committeesCardList';
 
 const Committees = () => {
-    const [committees, setCommittees] = useState(sektionsorgan.committees)
-    const [utskott, setUtskott] = useState(sektionsorgan.utskott)
     return (
         <React.Fragment>
             <CardGroup>
-                <CommitteesList committees={committees} />
+                <CommitteesList committees={sektionsorgan.committees} />
             </CardGroup>
 
             {/* <CardGroup>
