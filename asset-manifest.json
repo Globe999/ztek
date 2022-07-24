@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ztek.se/static/css/main.e9c0e7b7.css",
+    "main.js": "/ztek.se/static/js/main.e7d6bd13.js",
+    "static/js/787.45bde03b.chunk.js": "/ztek.se/static/js/787.45bde03b.chunk.js",
+    "static/media/Play-Regular.ttf": "/ztek.se/static/media/Play-Regular.e0424c5771f87080b05e.ttf",
+    "static/media/background_image.png": "/ztek.se/static/media/background_image.3e2ff982b281d39d3f6c.png",
+    "index.html": "/ztek.se/index.html",
+    "main.e9c0e7b7.css.map": "/ztek.se/static/css/main.e9c0e7b7.css.map",
+    "main.e7d6bd13.js.map": "/ztek.se/static/js/main.e7d6bd13.js.map",
+    "787.45bde03b.chunk.js.map": "/ztek.se/static/js/787.45bde03b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c0e7b7.css",
+    "static/js/main.e7d6bd13.js"
+  ]
+}
