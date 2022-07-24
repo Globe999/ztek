@@ -1,0 +1,138 @@
+{
+    "committees": [
+        {
+            "route": "znollk",
+            "name": "ZØK",
+            "members": [
+                {
+                    "role": "General",
+                    "name": "Zakø",
+                    "email": "ordf.znollk@ztek.se",
+                    "prio": 10
+                },{
+                    "role": "Kazzør",
+                    "name": "ViDan",
+                    "email": "ekonomi.znollk@ztek.se",
+                    "prio": 9
+                },{
+                    "role": "Zpønzchef",
+                    "name": "Røhan",
+                    "email": "sponz.znollk@ztek.se",
+                    "prio": 8
+                },{
+                    "role": "Øhlchef",
+                    "name": "Balder",
+                    "email": "znollk@ztek.se",
+                    "prio": 7
+                },{
+                    "role": "Øhlchef",
+                    "name": "Balder",
+                    "email": "znollk@ztek.se",
+                    "prio": 6
+                },{
+                    "role": "Terapeut",
+                    "name": "TiramizHu",
+                    "email": "znollk@ztek.se",
+                    "phoneNumber": "070-2688662",
+                    "prio": 5
+                },{
+                    "role": "Redaktør",
+                    "name": "Køda",
+                    "email": "znollk@ztek.se",
+                    "prio": 4
+                },{
+                    "role": "Inføchef",
+                    "name": "Ztikkling",
+                    "email": "znollk@ztek.se",
+                    "prio": 3
+                },{
+                    "role": "Jourlinjeansvarig",
+                    "name": "Praktikant Putte",
+                    "email": "znollk@ztek.se",
+                    "phoneNumber": "073-0864575",
+                    "prio": 2
+                }
+            ]
+        },{
+            "route": "daltonz",
+            "name": "DaltonZ",
+            "members": [
+                {
+                    "role": "Revolverman (Ordförande)",
+                    "name": "Albin \"Dizco\" Svenske",
+                    "email": "ordf.daltonz@ztek.se",
+                    "prio": 10
+                },{
+                    "role": "Fifflare (Kazzør)",
+                    "name": "Albin \"HumAnna\" Hallander",
+                    "email": "ekonomi.daltonz@ztek.se",
+                    "prio": 9
+                },{
+                    "role": "Tjallare",
+                    "name": "Samuel \"Zhonk\" Lee",
+                    "email": "daltonz@ztek.se",
+                    "prio": 8
+                },{
+                    "role": "Bryggare",
+                    "name": "Alva \"Yuzu\" Andreasson",
+                    "email": "daltonz@ztek.se",
+                    "prio": 7
+                },{
+                    "role": "Zlaktare",
+                    "name": "Hubert \"Znack\" Hermodsson",
+                    "email": "daltonz@ztek.se",
+                    "prio": 6
+                },{
+                    "role": "Trixare",
+                    "name": "Felix \"Zierra\" Sjöstedt",
+                    "email": "znollk@ztek.se",
+                    "phoneNumber": "070-2688662",
+                    "prio": 5
+                }
+            ]
+        },{
+            "route": "zenith",
+            "name": "Zenith",
+            "description": "Zenith är Z:as MediaKommitté.",
+            "imageUrl": "zenith2022.png",
+            "members": [
+                {
+                    "role": "Revolverman (Ordförande)",
+                    "name": "David \"Pepi II\" Mörck",
+                    "email": "ordf.zenith@ztek.se",
+                    "prio": 10
+                },{
+                    "role": "Kazzör",
+                    "name": "Andreas \"Perzyval\" Särnholm",
+                    "email": "ekonomi.daltonz@ztek.se",
+                    "prio": 9
+                },{
+                    "role": "Tjallare",
+                    "name": "Martin \"Mannix\" Ma",
+                    "email": "zenith@ztek.se",
+                    "prio": 8
+                },{
+                    "role": "Knäppare",
+                    "name": "Alexander \"1000 km/h\" Nilsson",
+                    "email": "zenith@ztek.se",
+                    "prio": 7
+                },{
+                    "role": "Murvel",
+                    "name": "Majed \"Vizerion\" Mazen",
+                    "email": "zenith@ztek.se",
+                    "prio": 6
+                },{
+                    "role": "Första Kaffekokare",
+                    "name": "Hanna \"Zkånerost\" Klevedal",
+                    "email": "zenith@ztek.se",
+                    "prio": 5
+                },{
+                    "role": "Klåpare",
+                    "name": "Jacob \"Kapzten\" Engström",
+                    "email": "zenith@ztek.se",
+                    "prio": 4
+                }
+            ]
+        }
+    ]
+}
